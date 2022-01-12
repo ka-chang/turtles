@@ -1,6 +1,8 @@
 # Turtles
 
-Turtle powered eink screen scrubber, busting ghosts to your specifications (and sometimes on a timer, if you wish).
+Turtle powered eink screen scrubber, busting ghosts to your specifications (and sometimes on a timer, if you wish). 
+
+:ghost: :zap: :turtle:
 
 # Instructions
 
