@@ -9,7 +9,7 @@ Turtle powered eink screen scrubber, busting ghosts to your specifications (and 
 3. Unzip/extract the contents of the zip file
 4. When you want to bust ghosts, open your choice of terminal. Change (`cd`) to the turtles directory and run the turtle_power.py script by typing `python turtle_power.py`. Depending on your Python install, you may need to use `python3 turtle_power.py`
 
-Expected behavior should include your eink screen flashing black, and then flashing white. It should take less than 1 second. Eink ghosts should be cleared.
+Expected behavior should include your eink screen flashing black, and then flashing white. It should take about 6 seconds. Eink ghosts should be cleared.
 
 # What is my purpose?
 
