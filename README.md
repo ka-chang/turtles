@@ -4,7 +4,7 @@ Turtle powered eink screen scrubber, busting ghosts to your specifications (and 
 
 # Instructions
 
-1. Download the zip file containing the turtle code by clicking on the green CLONE button.
+1. Download the zip file containing the turtle code by clicking on the green CODE button.
 2. Save the zip file in an easily accessible directory
 3. Unzip/extract the contents of the zip file
 4. When you want to bust ghosts, open your choice of terminal. Change (`cd`) to the turtles directory and run the turtle_power.py script by typing `python turtle_power.py`. Depending on your Python install, you may need to use `python3 turtle_power.py`
