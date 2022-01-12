@@ -11,7 +11,7 @@ Turtle powered eink screen scrubber, busting ghosts to your specifications (and 
 
 Expected behavior should include your eink screen flashing black, and then flashing white. It should take less than 1 second. Eink ghosts should be cleared.
 
-# What is my prupose?
+# What is my purpose?
 
 ## Problem
 Ghosting is a significant quality of life hurdle with eink screens, particularly for screens being used as external monitors or primary monitors. Eink monitors and raw panels often contain physical buttons to reset the screen and eliminate ghosting, but sometimes the users may not want to stop their workflow to physically reset the screen. 
